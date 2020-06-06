@@ -3,5 +3,5 @@ python_version = "3.6.9"
 
 [packages]
 gunicorn = "==19.9.0"
-django = "==2.1"
+django = "==2.2.13"
 whitenoise = "==3.3.1"
